@@ -30,7 +30,7 @@ border-bottom-right-radius: .04rem; background: #eee; font-size: .14rem;}
 #tour h2{text-align: center; color: #666;font-size: .26rem;}
 #tour h3{text-align: center; color: #666;font-size: .16rem; margin:.05rem 0 .1rem 0;font-weight:normal;}
 #tour figure{width:50%;float: left; background: #eee; font-size: .16rem;padding:0 0 .05rem 0;}
-#tour figure img{width:316px; height: 200px;  border-radius: .04rem;}
+#tour figure img{width:156px; height: 200px;  border-radius: .04rem;}
 #tour figcaption{color: #666;font-size: .16rme; padding: .02rem .05rem;}
 #tour h4{ font-weight: normal;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
 #tour p{white-space: nowrap;overflow: hidden; text-overflow: ellipsis;}
